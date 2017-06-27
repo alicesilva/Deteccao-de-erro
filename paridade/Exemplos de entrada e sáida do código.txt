@@ -1,0 +1,23 @@
+Digite uma entrada de bits: (Ex: 1110)
+1110
+Digite o tipo de paridade: (Ex: par ou ímpar)
+par
+ERRO
+
+Digite uma entrada de bits: (Ex: 1110)
+1110
+Digite o tipo de paridade: (Ex: par ou ímpar)
+ímpar
+NOT ERRO
+
+Digite uma entrada de bits: (Ex: 1110)
+11110
+Digite o tipo de paridade: (Ex: par ou ímpar)
+par
+NOT ERRO
+
+Digite uma entrada de bits: (Ex: 1110)
+11110
+Digite o tipo de paridade: (Ex: par ou ímpar)
+ímpar
+ERRO
