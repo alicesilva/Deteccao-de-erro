@@ -34,7 +34,8 @@ public class DeteccaoDeErroParidade {
 	public static String paridade(String palavra, String tipoDeParidade) {
 		
 		int count = 0;
-		for(int i = 0; i < palavra.length(); i++){
+		int i;
+		for(i = 0; i < palavra.length(); i++){
 			char letra = palavra.charAt(i);
 			if(letra == UM){
 				count ++;
